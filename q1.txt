@@ -1,0 +1,3 @@
+install node.js
+open cmd in vscode 
+
